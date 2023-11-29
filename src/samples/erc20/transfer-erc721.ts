@@ -58,7 +58,7 @@ export async function transferERC20(
   senderPublicKey:"0x3eaf3eac26f9560c5c1538414e047723088195c6aebc4c06a3c2cb5d6b3402a", 
   receiverPublicKey:"0x2106562707b8674278b6e7eab343bf7ee531e754cc5eab7cb656e5889ea765a",
   tokenAddress:"0x74753e3fb12672d91e1035586cc75bc7f8c85522", 
-  tokenId:"50",quantizedAmount:"1"
+  tokenId:"26",quantizedAmount:"1"
 
 });
 }
